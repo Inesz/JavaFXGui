@@ -7,3 +7,4 @@ gradle run
 * login button - On click print on console event.
 * btn1 - On click change btn1 type.
 * btn2 - On click show a joke.
+* choicebox - On select print on console lang description.
